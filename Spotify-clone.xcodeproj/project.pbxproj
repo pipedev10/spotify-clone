@@ -29,6 +29,7 @@
 		91400CE327791C75006A8E03 /* AudioTrack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91400CE227791C75006A8E03 /* AudioTrack.swift */; };
 		91400CE527791C92006A8E03 /* Artist.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91400CE427791C92006A8E03 /* Artist.swift */; };
 		91400CE727791CAC006A8E03 /* UserProfile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91400CE627791CAC006A8E03 /* UserProfile.swift */; };
+		91400CE927794A61006A8E03 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91400CE827794A61006A8E03 /* Extensions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -56,6 +57,7 @@
 		91400CE227791C75006A8E03 /* AudioTrack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioTrack.swift; sourceTree = "<group>"; };
 		91400CE427791C92006A8E03 /* Artist.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Artist.swift; sourceTree = "<group>"; };
 		91400CE627791CAC006A8E03 /* UserProfile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserProfile.swift; sourceTree = "<group>"; };
+		91400CE827794A61006A8E03 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -150,6 +152,7 @@
 				91400CA927791616006A8E03 /* AppDelegate.swift */,
 				91400CAB27791616006A8E03 /* SceneDelegate.swift */,
 				91400CB22779161B006A8E03 /* Assets.xcassets */,
+				91400CE827794A61006A8E03 /* Extensions.swift */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -262,6 +265,7 @@
 				91400CCD27791B1C006A8E03 /* AuthViewController.swift in Sources */,
 				91400CD127791B45006A8E03 /* SettingViewController.swift in Sources */,
 				91400CE727791CAC006A8E03 /* UserProfile.swift in Sources */,
+				91400CE927794A61006A8E03 /* Extensions.swift in Sources */,
 				91400CAA27791616006A8E03 /* AppDelegate.swift in Sources */,
 				91400CE527791C92006A8E03 /* Artist.swift in Sources */,
 				91400CD727791B8B006A8E03 /* PlaylistViewController.swift in Sources */,
